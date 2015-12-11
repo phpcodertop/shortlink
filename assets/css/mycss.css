@@ -1,0 +1,109 @@
+.h{
+	display: block;
+    text-decoration: none;
+    font: 70px Tahoma, Helvetica, Arial, Sans-Serif;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #cccccc;
+    text-shadow: 1px 1px 1px #8c8c8c;
+}
+
+.hh{
+	display: block;
+    text-decoration: none;
+    font: 20px Tahoma, Helvetica, Arial, Sans-Serif;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #cccccc;
+    text-shadow: 1px 1px 1px #8c8c8c;
+}
+
+.txt{
+	-webkit-border-top-left-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: #999;
+    border: 1px solid #999;
+    padding: 10px;
+    font-size: 18px;
+    -webkit-box-shadow: 1px 1px 1px 0px rgba(140, 140, 140, 5);
+    box-shadow: 1px 1px 1px 0px rgba(140, 140, 140, 5);
+    -webkit-appearance: textfield;
+    background-color: white;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    font: 13.3333px Arial;
+    min-width: 200px;
+    width: 60%;
+}
+
+#form{
+	text-align: center;
+    width: 100%;
+    margin: 40px auto 0 auto;
+}
+
+#shorten{
+	text-align: center;
+    width: 80%;
+    margin: 40px auto 0 auto;
+}
+
+.txt2{
+	-webkit-border-top-left-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: #ff0000;
+    border: 1px solid rgb(51, 204, 51);
+    background-color: #000;
+    padding: 10px;
+    font-size: 18px;
+    -webkit-box-shadow: 1px 1px 1px 0px rgba(140, 140, 140, 5);
+    box-shadow: 1px 1px 1px 0px rgba(140, 140, 140, 5);
+    -webkit-appearance: textfield;
+    background-color: white;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em 0em 0em 0em;
+    font: 13.3333px Arial;
+    min-width: 200px;
+    width: 60%;
+}
+
+.recent{
+	color: #8c8c8c;
+    text-shadow: 1px 1px 1px #fff;
+    text-align: center;
+}
+.w{
+	width: 800px;
+	margin: 0 auto 0 auto;
+}
+.o{
+		border: 1px solid grey;
+}
+
+#hide{
+    
+}
